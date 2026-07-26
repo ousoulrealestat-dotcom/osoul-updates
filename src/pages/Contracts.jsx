@@ -1028,7 +1028,6 @@ export default function Contracts() {
                 isPreview={true}
               />
             </div>
-            </div>
           </div>
         </div>
       )}
